@@ -5,6 +5,6 @@ This repository is designed to help students learn the fundamentals of MATLAB, f
 ## Contents
 - **01_Introduction:** Basic introduction to MATLAB and matrices.
 - **02_Basic_Operations:** Fundamental matrix operations like addition, subtraction, multiplication, and transpose.
-- **03_Advanced_Operations:** Advanced operations such as inverse, determinant, eigenvalues, and solving linear equations.
+- **03_Advanced_Operations:** Advanced operations such as inverse, determinant, and solving linear equations.
 - **Examples:** Practical examples combining multiple operations.
 
