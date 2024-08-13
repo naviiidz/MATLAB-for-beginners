@@ -1,6 +1,6 @@
 # MATLAB Matrix Operations for Beginners
 
-This repository is designed to help high school students learn the fundamentals of MATLAB, focusing on matrix operations. Each folder contains scripts that demonstrate basic and advanced matrix operations.
+This repository is designed to help students learn the fundamentals of MATLAB, focusing on matrix operations. Each folder contains scripts that demonstrate basic and advanced matrix operations.
 
 ## Contents
 - **01_Introduction:** Basic introduction to MATLAB and matrices.
