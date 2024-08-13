@@ -8,23 +8,23 @@ This repository is designed to help high school students learn the fundamentals 
 - **03_Advanced_Operations:** Advanced operations such as inverse, determinant, eigenvalues, and solving linear equations.
 - **Examples:** Practical examples combining multiple operations.
 
-MATLAB-Matrix-Operations
+MATLAB-Matrix-Operations/
 │
 ├── README.md
 ├── LICENSE
-├── 01_Introduction/
-│   ├── intro_to_MATLAB.m
-│   └── intro_to_Matrices.m
-├── 02_Basic_Operations/
-│   ├── matrix_addition.m
-│   ├── matrix_subtraction.m
-│   ├── matrix_multiplication.m
-│   └── matrix_transpose.m
-├── 03_Advanced_Operations/
-│   ├── matrix_inverse.m
-│   ├── determinant.m
-│   ├── eigenvalues.m
-│   └── solving_linear_equations.m
+├── Introduction/
+│   ├── 01_intro_to_MATLAB.m
+│   └── 02_intro_to_Matrices.m
+├── Basic_Operations/
+│   ├── 01_matrix_addition.m
+│   ├── 02_matrix_subtraction.m
+│   ├── 03_matrix_multiplication.m
+│   └── 04_matrix_transpose.m
+├── Advanced_Operations/
+│   ├── 01_matrix_inverse.m
+│   ├── 02_determinant.m
+│   ├── 03_eigenvalues.m
+│   └── 04_solving_linear_equations.m
 └── Examples/
-    ├── example_1.m
-    └── example_2.m
+    ├── 01_example_combined_operations.m
+    └── 02_example_complex_operations.m
